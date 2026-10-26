@@ -8,6 +8,7 @@
     "node": ">=24"
   },
   "scripts": {
-    "start": "node src/start.ts"
+    "start": "node src/start.ts",
+    "voorraad": "node src/voorraad.ts"
   }
 }
